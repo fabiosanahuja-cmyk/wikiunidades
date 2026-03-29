@@ -10,42 +10,42 @@
     "id": "68aa24a8b1e88c0af89d7dfb",
     "name": "Megumin | Stat Rerolls",
     "description": "Megumin is the stat reroll npc, here you reroll your units stats. You can roll all stats at once or individual stats using Stat Cubes.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7dfb/attachments/68e6a028088f31f6dec1b3ea/download/afbeelding_2025-10-08_193215033.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7ded",
     "name": "Nokotan | Traits",
     "description": "Nokotan is the Trait Npc, where you can roll traits on both units and Artifacts.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7ded/attachments/68e6a0549f1bdb1f50481b44/download/afbeelding_2025-10-08_193258456.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7e03",
     "name": "Mob | Evolutions",
     "description": "Mob is the evolution npc, here you evolve your units.",
-    "category": "Other",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7e03/attachments/68e6a0818ef015cc31a13ed5/download/afbeelding_2025-10-08_193343641.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7dff",
     "name": "Guts | Crafting",
     "description": "Guts is the crafting npc for rune stones and crafting materials.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7dff/attachments/68e6a0977c2a3a768c2a88e2/download/afbeelding_2025-10-08_193405605.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7def",
     "name": "Frieren | Level Rewards",
     "description": "Frieren is the level reward NPC, every 5 levels you can claim rewards containing gems and rerolls.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7def/attachments/68e6a0edc8f8a2a07f3fd867/download/afbeelding_2025-10-08_193531957.png"
   },
   {
     "id": "691cf04fbf64e4a15094f064",
     "name": "Boros | Tournaments",
     "description": "Access Ranked and Casual modes. Ranked play includes unit restrictions and leaderboard entry. Buy Unit frames or Inventory Capacity in the tournament shop.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/691cf04fbf64e4a15094f064/attachments/692a3ccc8f30f5fad4939fc1/download/afbeelding_2025-11-29_012236869.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "68aa24a8b1e88c0af89d7df3",
     "name": "Alucard | Daily Shop",
     "description": "Daily shop npc for buying items with coins and event currency. Refreshes every 24 hours.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7df3/attachments/68e6a14fa7b7092c2e568d6d/download/afbeelding_2025-10-08_193710317.png"
   },
   {
@@ -73,35 +73,35 @@
     "id": "68aa24a8b1e88c0af89d7c57",
     "name": "Griffith | Void Room Teleporter",
     "description": "Teleports you to the sacrifice room where you can access shops and crafting.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7c57/attachments/68e6a1b06b835941cc78552f/download/afbeelding_2025-10-08_193847211.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7c63",
     "name": "Femto | Sacrificer",
     "description": "NPC for sacrificing Mythic units for Behelits and crafting Griffith or Guts.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7c63/attachments/68aa24abb1e88c0af89dac8e/download/afbeelding_2025-06-14_224948984.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7c5b",
     "name": "Guts | Tp Back",
     "description": "Lets you leave the sacrifice room.",
-    "category": "Other",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7c5b/attachments/68aa24abb1e88c0af89dac7e/download/afbeelding_2025-06-14_224921897.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7c25",
     "name": "Anya | Night Market",
     "description": "Weekly rotation of 5 units purchasable with Night Market coins. Includes Exclusive, Secret, and Heavenly units.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7c25/attachments/68e6a1d17d7d4725edd52546/download/afbeelding_2025-10-08_193919952.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7e01",
     "name": "Albedo | Lab",
     "description": "Sacrifice Exclusives, Secrets, Mythics, and Legendaries for Trait Rerolls.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7e01/attachments/68e6a2848f045b5363fce8dc/download/afbeelding_2025-10-08_194218702.png"
   },
   {
@@ -115,14 +115,14 @@
     "id": "68aa24a8b1e88c0af89d7dfd",
     "name": "Whis | Unit Trading",
     "description": "NPC for crafting high-tier units like UI Goku, Boros, Saitama, and more.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7dfd/attachments/68e6a2de4831afe503def13f/download/afbeelding_2025-10-08_194348941.png"
   },
   {
     "id": "68aa24a8b1e88c0af89d7e05",
     "name": "Sakamoto | Leaderboards",
     "description": "Displays season leaderboard rankings and rewards.",
-    "category": "Other",
+    "category": "Special",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7e05/attachments/68e6a2f50a09781d1355764b/download/afbeelding_2025-10-08_194412528.png"
   },
   {
@@ -143,14 +143,14 @@
     "id": "693d61d9301e99f4fa9118f9",
     "name": "Rudo | Artifact Crafter",
     "description": "Artifact crafting NPC located in the upgrade area.",
-    "category": "Shop",
+    "category": "Special",
     "image": "https://trello.com/1/cards/693d61d9301e99f4fa9118f9/attachments/693d61d9301e99f4fa911944/download/image.png"
   },
   {
     "id": "6940d21006ab7881f7876fcd",
     "name": "Pucci | Limit Breaker",
     "description": "Limitbreak units to Level 150. Requires Level 100 unit and 1x Limit Breaker item.",
-    "category": "Other",
+    "category": "Special",
     "image": "https://trello.com/1/cards/6940d21006ab7881f7876fcd/attachments/6940d2485f84e0968c161bd3/download/image.png"
   },
   {
@@ -187,6 +187,41 @@
     "description": "Grants the Wukong quest.",
     "category": "Quest",
     "image": "https://trello.com/1/cards/699c965087d991ed1699f020/attachments/699c9965c7608ddd86b43354/download/afbeelding_2026-02-23_191604955.png"
+  },
+  {
+    "id": "699c965087d991ed16dgsf3g",
+    "name": "Cartethyia | World Rush",
+    "description": "The Wheel of Broken Fate gamemode. Battle the Boss for 10% drop Crown of fleurdelys",
+    "category": "Other",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Cartethyia%20World%20Rush.jpg?raw=true"
+  },
+   {
+    "id": "699c965087d991ed1gdghssd",
+    "name": "Jotaro | Over Heaven Event",
+    "description": "Over Heaven gamemode to farm Dio Presents. Shop to spend Dio Presents",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Jotaro%20Over%20Heaven.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991ed1gdg3sd",
+    "name": "Kaneki | Devourer Throne Event",
+    "description": "Devourer Throne gamemode get 2 secret units, the evo items and farm Phantom Glow Skull. Shop to spend Phantom Glow Skull",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Kaneki%20Devourer%20Throne.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991ednjkla12",
+    "name": "Yuji | Trinity of Destruction Event",
+    "description": "Trinity of Destruction gamemode get 2 secret portals and farm curse energy. Shop to spend curse energy",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Yuji%20Trinity%20of%20Destruction.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991ejnmjsdm3",
+    "name": "Escanor | Bar",
+    "description": "Spend Hawk Coins to acquire resources and Seven Sins Chests",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Escanor%20Bar.jpg?raw=true"
   },
   {
     "id": "699cad1c64eaf5e13ec0f477",
