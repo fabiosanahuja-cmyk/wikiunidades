@@ -193,7 +193,7 @@
     "name": "Wordline (Forbidden Forest)",
     "description": "30 intense waves with unique shield mechanics (Green, Pink, Red) affecting enemy regeneration and skill damage.",
     "category": "Worldline",
-    "image": "https://trello.com/1/cards/693ca4fc47c5934a93813e5a/attachments/693ca52e9577a9e460d33734/download/1000037078_0x0_565x858.png"
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Forbidden%20Forest.jpg?raw=true"
   },
   {
     "id": "699cb615f6d7e9ec38f94981",
@@ -236,6 +236,13 @@
     "description": "Drop Rate: 1/100. Rewards: Azure Judgement, All-Seeing Abyss. Bosses: Aizen (Final Muken) and Yhwach (Soul King).",
     "category": "Secret",
     "image": "https://trello.com/1/cards/69b2417572ce2b1bd5b4a4b9/attachments/69b2417fdf8ea4965bc01a44/download/bum_portal.png"
+  },
+  {
+    "id": "693ca4fc47c5934a9hsr357",
+    "name": "Wordline (Seven Sins Town)",
+    "description": "30 intense waves where waypoints are randomized at the start. Look for the 'Path chosen!' Drops include 1% Meliodas (Assault), 25% Seven Sins Chest, 2.5% Sins Town: Arthur/Meliodas/Escanor (Portal and Hawk Coins.",
+    "category": "Worldline",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Seven%20Sins%20Town.jpg?raw=true"
   },
   {
     "id": "69b2423d55653a9371b4e18c",
