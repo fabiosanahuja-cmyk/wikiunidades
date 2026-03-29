@@ -2079,6 +2079,20 @@
     "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Aizen%20Muken%20Capsule.jpg?raw=true"
   },
   {
+    "id": "68e6912e2d0900nfsdg448",
+    "name": "Demon King Essence",
+    "description": "Obtained from the Seven Sins Town: Meliodas (Portal) with a 10% chance. Needed to evolve Meliodas (Assault).",
+    "category": "Evolution/Craft Items",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Demon%20King%20Essence.jpg?raw=true"
+  },
+  {
+    "id": "68e6912e2d0900ndyffh53",
+    "name": "Hawk Coinds",
+    "description": "Obtained from the Seven Sins Town Worldline and every Seven Sins Portal. Needed to evolve Meliodas (Assault).",
+    "category": "Misc",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Hawk%20Coins.jpg?raw=true"
+  },
+  {
     "id": "68e69138474815c16010d539",
     "name": "Ragna the Bloodedge",
     "description": "No description available.",
