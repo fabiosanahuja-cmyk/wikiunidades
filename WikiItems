@@ -2074,7 +2074,7 @@
   {
     "id": "68e6912e2d0900ndf577645",
     "name": "Aizen Muken Capsule",
-    "description": "Aizen Muken Capsule’s you can buy tehm in the Trinity of Destruction event shop. \n\nDROPS :\n\n32.2%  x5 Trait Reroll\n32.1  15000 Coins or 15000 Gems\n0.9% Nether Dragon (Material)\n0.9% Abyss Sovereign Cloak (Material)\n0.9% Blindfold of the Abyss (Material)\n0.9% Eternal Restraint Throne (Material)",
+    "description": "Aizen Muken Capsule’s you can buy them in the Trinity of Destruction event shop. \n\nDROPS :\n\n32.2%  x5 Trait Reroll\n32.1%  15000 Coins or 15000 Gems\n0.9% Nether Dragon (Material)\n0.9% Abyss Sovereign Cloak (Material)\n0.9% Blindfold of the Abyss (Material)\n0.9% Eternal Restraint Throne (Material)",
     "category": "Capsules",
     "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Aizen%20Muken%20Capsule.jpg?raw=true"
   },
@@ -2091,6 +2091,20 @@
     "description": "Obtained from the Seven Sins Town Worldline and every Seven Sins Portal. Needed to evolve Meliodas (Assault).",
     "category": "Misc",
     "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Hawk%20Coins.jpg?raw=true"
+  },
+  {
+    "id": "68e6912e2d0900ngser34",
+    "name": "Sumo Coins",
+    "description": "Obtained from the Sumo Event. Needed to buy Sumo Capsules.",
+    "category": "Misc",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Sumo%20Coins.jpg?raw=true"
+  },
+  {
+    "id": "68e6912e2d0900ndfjgt5",
+    "name": "Sumo Capsule 2",
+    "description": "Sumo Capsule’s you can buy them in the Sumo event shop. \n\nDROPS :\n\n50%  5000 Coins\n49.4%  5000 Gems\n0.25%  Mini Cookie (Sumo Cookies)\n0.05%  Sumo Girl (Sumo Cookies)",
+    "category": "Capsules",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Sumo%20Capsule%202.jpg?raw=true"
   },
   {
     "id": "68e69138474815c16010d539",
