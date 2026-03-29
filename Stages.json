@@ -240,9 +240,16 @@
   {
     "id": "693ca4fc47c5934a9hsr357",
     "name": "Wordline (Seven Sins Town)",
-    "description": "30 intense waves where waypoints are randomized at the start. Look for the 'Path chosen!' Drops include 1% Meliodas (Assault), 25% Seven Sins Chest, 2.5% Sins Town: Arthur/Meliodas/Escanor (Portal and Hawk Coins.",
+    "description": "30 intense waves where waypoints are randomized at the start. Look for the 'Path chosen!' Drops include 1% Meliodas (Assault), 25% Seven Sins Chest, 2.5% Sins Town: Arthur/Meliodas/Escanor (Portal) and Hawk Coins.",
     "category": "Worldline",
     "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Seven%20Sins%20Town.jpg?raw=true"
+  },
+  {
+    "id": "699cb615f6d7e9efggdy566h",
+    "name": "Sumo Event",
+    "description": "Boss skills depend on the current act, but are used randomly in Infinity mode. Drops Sumo Coins for the shop.",
+    "category": "Event",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Sumo%20Event.jpg?raw=true"
   },
   {
     "id": "69b2423d55653a9371b4e18c",
