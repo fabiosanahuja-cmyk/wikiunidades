@@ -2044,6 +2044,41 @@
     "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/All-Seeing%20Abyss.jpg?raw=true"
   },
   {
+    "id": "68e6912e2d0900ndf456742",
+    "name": "Abyss Sovereign Cloak",
+    "description": "Obtained from the Aizen Muken Capsule. Needed to evolve Aozort (Lord Arc).",
+    "category": "Evolution/Craft Items",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Abyss%20Sovereign%20Cloak.jpg?raw=true"
+  },
+  {
+    "id": "68e6912e2d0900ndf434632",
+    "name": "Blindfold of the Abyss",
+    "description": "Obtained from the Aizen Muken Capsule. Needed to evolve Aozort (Lord Arc).",
+    "category": "Evolution/Craft Items",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Blindfold%20of%20the%20Abyss.jpg?raw=true"
+  },
+  {
+    "id": "68e6912e2d0900ndf532252",
+    "name": "Eternal Restraint Throne",
+    "description": "Obtained from the Aizen Muken Capsule. Needed to evolve Aozort (Lord Arc).",
+    "category": "Evolution/Craft Items",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Eternal%20Restraint%20Throne.jpg?raw=true"
+  },
+  {
+    "id": "68e6912e2d0900ndf543232",
+    "name": "Nether Dragon",
+    "description": "Obtained from the Aizen Muken Capsule. Needed to evolve Aozort (Lord Arc).",
+    "category": "Evolution/Craft Items",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Nether%20Dragon.jpg?raw=true"
+  },
+  {
+    "id": "68e6912e2d0900ndf577645",
+    "name": "Aizen Muken Capsule",
+    "description": "Aizen Muken Capsule’s you can buy tehm in the Trinity of Destruction event shop. \n\nDROPS :\n\n32\\.2%  x5 Trait Reroll\n32\\.1  15000 Coins or 15000 Gems\n0\\.9% Nether Dragon (Material)\n0\\.9% Abyss Sovereign Cloak (Material)\n0\\.9% Blindfold of the Abyss (Material)\n0\\.9% Eternal Restraint Throne (Material)",
+    "category": "Capsules",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Aizen%20Muken%20Capsule.jpg?raw=true"
+  },
+  {
     "id": "68e69138474815c16010d539",
     "name": "Ragna the Bloodedge",
     "description": "No description available.",
