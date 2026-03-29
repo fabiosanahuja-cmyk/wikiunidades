@@ -30,7 +30,7 @@
   {
     "id": "68aa24a8b1e88c0af89d7e6f",
     "name": "Vampire Castle Act",
-    "description": "Drop Rate: 97/100. Obtained from Lawless City Raid at a 50% chance. 15 wave gamemode dropping Alucord Gun (1%) and Limit Breakers.",
+    "description": "Obtained from Lawless City Raid at a 50% chance. 15 wave gamemode dropping Alucord Gun (1%) and Limit Breakers.",
     "category": "Portals",
     "image": "https://trello.com/1/cards/68aa24a8b1e88c0af89d7e6f/attachments/68e69f4e2df33880b3adcf47/download/afbeelding_2025-10-08_192846639.png"
   },
@@ -250,6 +250,27 @@
     "description": "Boss skills depend on the current act, but are used randomly in Infinity mode. Drops Sumo Coins for the shop.",
     "category": "Event",
     "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Sumo%20Event.jpg?raw=true"
+  },
+  {
+    "id": "68aa24a8b1e88c0af54h4ja",
+    "name": "Seven Sins Town: Escanor (Portal)",
+    "description": "Obtained from Wordline (Seven Sins Town) at a 2.5% chance. 30 wave gamemode dropping 10% Escanor (The One) [Pity 11 Seven Sins Town Portals Completions] and 0.1% Shiny Escanor (The One).",
+    "category": "Portals",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Seven%20Sins%20Town%20Escanor%20(Portal).jpg?raw=true"
+  },
+  {
+    "id": "68aa24a8b1e88c0af5fhfg5",
+    "name": "Seven Sins Town: Meliodas (Portal)",
+    "description": "Obtained from Wordline (Seven Sins Town) at a 2.5% chance. 30 wave gamemode dropping 10% Demon King Essence [Pity 11 Seven Sins Town Portals Completions].",
+    "category": "Portals",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Seven%20Sins%20Town%20Meliodas%20(Portal).jpg?raw=true"
+  },
+  {
+    "id": "68aa24a8b1e88chsd3g4jd",
+    "name": "Seven Sins Town: Arthur (Portal)",
+    "description": "Obtained from Wordline (Seven Sins Town) at a 2.5% chance. 30 wave gamemode dropping 10% Arthur (Chaos King) [Pity 11 Seven Sins Town Portals Completions].",
+    "category": "Portals",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Seven%20Sins%20Town%20Arthur%20(Portal).jpg?raw=true"
   },
   {
     "id": "69b2423d55653a9371b4e18c",
