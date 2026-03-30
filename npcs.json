@@ -224,6 +224,83 @@
     "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Escanor%20Bar.jpg?raw=true"
   },
   {
+    "id": "699c965087d991ejnbhhkjg",
+    "name": "Zoro | Time Chamber",
+    "description": "Teleports you to the Time Chamber to farm AFK Rewards",
+    "category": "Special",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Time%20Chamber.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991ed16dfghf",
+    "name": "Frieren and Kurumi | Chronicles of Timeless Eternity",
+    "description": "Chronicles of Timeless Eternity gamemode, Drops include: kurumi, evo items for Frieren and Kurumi and resources",
+    "category": "Other",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Chronicles%20of%20Timeless%20Eternity.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhdfgd2d",
+    "name": "Denji | CSM Event",
+    "description": "CSM gamemode, Shop to spend CSM Coins and Skin Whell",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/CSM%20Event.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhdhdfge",
+    "name": "02 and Gilgamesh | FATE X 02 Event",
+    "description": "FATE X 02 gamemode and Shop to spend Golden Chalice Coins",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/fate%20x%2002.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhdnbbn4",
+    "name": "Johny Joestar  | Jojo Event",
+    "description": "Jojo gamemode to farm the items to get the jojo villains",
+    "category": "Other",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/jojo%20event.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhdvbfgg2",
+    "name": "Castorice | Mushroom Rush Event",
+    "description": "Mushroom Rush gamemode and Shop to spend Mushrooms",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Mushroom%20Rush.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhdvvbfg2",
+    "name": "Ragna | Ragna Event",
+    "description": "Ragna gamemode and Shop to spend Dragonpoints",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Ragna%20Event.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhbvdfggr3",
+    "name": "Gojo | Shibuya Event",
+    "description": "Shibuya gamemode and Shop to spend Star Gold",
+    "category": "Shop",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Shibuya%20event.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhbvdvbbvfg",
+    "name": "Broly, Shinra and Wukong | Three God Event",
+    "description": "Three God World Boss gamemode.",
+    "category": "Other",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Three%20God.jpg?raw=true"
+  },
+  {
+    "id": "68aa24a8b1e88c0af89bvcbfg5",
+    "name": "Griffith | Tp to Void Room",
+    "description": "Tps you to the sacrifice room.",
+    "category": "Special",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/Void%20Room.jpg?raw=true"
+  },
+  {
+    "id": "699c965087d991edhbvdbgf45",
+    "name": "Denji (Chainsaw Devil) | World Boss Event",
+    "description": "World Boss gamemode changes every hour.",
+    "category": "Other",
+    "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/World%20Boss.jpg?raw=true"
+  },
+  {
     "id": "699cad1c64eaf5e13ec0f477",
     "name": "Cartethyia | Wheel Spin",
     "description": "Spin wheel NPC related to the Cartethyia event.",
