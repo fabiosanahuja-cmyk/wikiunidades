@@ -32187,6 +32187,175 @@
       }
     ]
   },
+   {
+    "id": "EMPTY-GUARDIAN",
+    "name": "Yuji (Modulo) (Shiny)",
+    "rarity": "Guardian",
+    "category": "Guardian",
+    "image": https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/yujishiny.png?raw=true
+    "description": "Yuji (Modulo) is a unit obtained by 100% drop on Shibuya (Portal), and his Shiny Version with a 1%. \n\nHe is based of Yuji from Jujutsu Kaisen.",
+    "customTags": [
+      {
+        "id": "9dbe248d-0907-48e3-920c-b99e3167vfdfa",
+        "label": "Obtainable",
+        "bgColor": "#00FF00",
+        "borderColor": "#00D9FF"
+      }
+    ],
+    "passiveSkills": [
+      {
+        "id": "cb642f82-387e-48b1-bc1b-eac275bb8f64",
+        "name": "Combat Imitation",
+        "description": "Every time Yuji attacks an enemy, He will increase the total damage by 3% of the enemy's HP (or 6% if the enemy has more than 50% HP). If Yuji kills an enemy with this attack, he gains +5 Curse Energy (capped at 100) and increases his damage by 4% (capped at 80%).",
+        "cooldown": ""
+      },
+      {
+        "id": "3647146c-5df2-4fd3-9cea-4884b171ea6c",
+        "name": "Perfect Vessel Body",
+        "description": "When Yuji does Black Flash, he will enter a special state that buffs his ATK by +100%, RNG by +25% for 10 seconds. While in this state, everytime Yuji attacks there will be a 20% chance to increase total damage by 3% of enemy's HP.",
+        "cooldown": ""
+      },
+      {
+        "id": "87ccfa56-ba43-4875-bfdb-27365103a98f",
+        "name": "Cursed Flame Pressure",
+        "description": "When Yuji attacks an enemy, he has a 100% chance to inflict Burning. Enemies affected by Burning take damage every 1 second for 6 seconds, totaling 4% of their HP (this damage can be increased by Burning damage buffs). If Yuji kills a Burning enemy, it causes a Cursed Energy explosion that deals Full AoE damage, dealing 2% HP to all enemies within range.",
+        "cooldown": ""
+      },
+      {
+        "id": "614522ab-483b-467c-bb98-8783c1b68054",
+        "name": "Black Flash Mastery",
+        "description": "Every time Yuji attacks an enemy, there is a 25% chance to trigger Black Flash, dealing 10% of the enemy's Max HP and increasing Yuji's damage by 6% for 10 seconds (capped at 60%). If Yuji performs 3 Black Flashes in a row, he enters Flash State for 12 seconds, increasing the Black Flash chance from 25% to 50%.",
+        "cooldown": ""
+      },
+      {
+        "id": "bd17b7f2-e9d1-4774-9e88-3481df68109d",
+        "name": "Technique Replication",
+        "description": "Every time Yuji attacks, he has a 20% chance to perform a Full AoE attack. Enemies hit by it will take 10% of their HP as damage.",
+        "cooldown": ""
+      },
+      {
+        "id": "d5ed0931-7f72-4bb0-b579-fdbda651f768",
+        "name": "Combat Adaptation",
+        "description": "If Yuji attacks the same enemy 5 times consecutively, he enters a state where every attack increases his total damage by 5% of the enemy's Max HP for 8 seconds. If Yuji kills an enemy while in this state, it triggers an AoE explosion around the enemy that deals damage based on Yuji's RNG, dealing 5% HP to all enemies within range.",
+        "cooldown": ""
+      },
+      {
+        "id": "c9a50cbb-6c21-4eb8-9693-da2634ddda4c",
+        "name": "Guardian Blessing",
+        "description": "This unit cannot be stunned.",
+        "cooldown": ""
+      }
+    ],
+    "activeSkills": [
+      {
+        "id": "d47e522b-3091-45ea-9b0a-d39ab1024ecc",
+        "name": "Divine Flame: Open",
+        "description": "While the skill is active, constantly deals +999% of ATK as damage and inflict 'Burning' on enemies. This burning lasts for 6 seconds and deals burning damage every 0.5s. The damage of the burn will be 5% of total damage dealt on that enemy.",
+        "cooldown": "180s"
+      },
+      {
+        "id": "dda11ebd-3be3-482e-9d37-38747d0306cc",
+        "name": "Dismantle: World Slash",
+        "description": "Deal 60,000% of ATK as damage and inflict 'Bleeding' on enemies. This bleeding lasts for 6 seconds and deals bleeding damage every 0.5s. The damage of the bleed will be 5% of (UNIT'S ATK + 15,000%) dealt on that enemy.",
+        "cooldown": "190s"
+      }
+    ],
+    "baseInfo": {
+      "placements": "1",
+      "placementType": "Ground",
+      "aoeType": "Circle"
+    },
+    "upgrades": [
+      {
+        "level": 1,
+        "damage": "29.8k",
+        "spa": "5.0",
+        "range": "52.5",
+        "cost": "6500",
+        "id": "c93c91c3-0c07-4d85-85f5-3cf924e7ca7a"
+      },
+      {
+        "level": 1,
+        "damage": "59.5k",
+        "spa": "4.8",
+        "range": "57.8",
+        "cost": "8125",
+        "id": "8d7e718b-f03d-4bfc-bd37-57710b6c9dd0"
+      },
+      {
+        "level": 2,
+        "damage": "119.1k",
+        "spa": "4.8",
+        "range": "63.0",
+        "cost": "9750",
+        "id": "f22b2535-2d9f-4492-a61d-2ab6e312142f"
+      },
+      {
+        "level": 3,
+        "damage": "178.6k",
+        "spa": "4.8",
+        "range": "68.3",
+        "cost": "13000",
+        "id": "f01a75b1-361d-4da1-bdeb-213e8a217006"
+      },
+      {
+        "level": 4,
+        "damage": "238.2k",
+        "spa": "5.4",
+        "range": "73.5",
+        "cost": "14625",
+        "id": "44afb372-f6bd-4028-ba8b-3b0182f82506"
+      },
+      {
+        "level": 5,
+        "damage": "297.7k",
+        "spa": "5.4",
+        "range": "78.8",
+        "cost": "16250",
+        "id": "22d934d9-d8b6-49d0-9917-fac698ccbfdb"
+      },
+      {
+        "level": 6,
+        "damage": "357.2k",
+        "spa": "5.4",
+        "range": "84.0",
+        "cost": "17875",
+        "id": "523558df-b40a-4c95-bf96-16b32cf58851"
+      },
+      {
+        "level": 7,
+        "damage": "416.8k",
+        "spa": "5.4",
+        "range": "89.3",
+        "cost": "19500",
+        "id": "79f58631-227d-43be-a7c8-961651116a3a"
+      },
+      {
+        "level": 8,
+        "damage": "476.3k",
+        "spa": "5.4",
+        "range": "94.5",
+        "cost": "21125",
+        "id": "0a44dd77-0e14-4298-b535-690ea817d141"
+      },
+      {
+        "level": 9,
+        "damage": "535.8k",
+        "spa": "5.4",
+        "range": "99.8",
+        "cost": "26000",
+        "id": "23242549-7d35-4162-bbf0-337682ec3708"
+      },
+      {
+        "level": 10,
+        "damage": "654.9k",
+        "spa": "3.0",
+        "range": "105.0",
+        "cost": "26000",
+        "id": "13c999d8-11d0-4b6b-8841-33cc6cb9c422"
+      }
+    ]
+  },
   {
     "id": "U-0146",
     "name": "Yuta (Rika)",
