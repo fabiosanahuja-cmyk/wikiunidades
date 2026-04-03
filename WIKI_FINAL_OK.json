@@ -24389,14 +24389,14 @@
     "passiveSkills": [
       {
         "name": "Corrupted Mana Overflow",
-        "description": "The dark mana within Saber Alter accumulates as Corrupted Gauge. Each attack grants +6%, defeating an enemy grants +12%, and receiving heavy damage grants +15%. Damage increases based on current gauge percentage, up to 100%. \nUpon reaching 100% Saber enters Blackened Mana mode. ATK is increased by +350%, and all attacks become, ignoring armor, shields, and all damage reduction. \nEnemies hit are inflicted with Mana Erosion, taking up to 250% damage per second based on base damage for 4 seconds. While in 100% mode, attacks deal an additional 450% as area damage. Enemies hit suffer -10% maximum HP permanently for the current battle. \nWhen Blackened Mana ends, the Corrupted Gauge resets to 0% and begins charging again automatically."
+        "description": "The dark mana within Saber Alter accumulates as Corrupted Gauge. Each attack grants +6%, defeating an enemy grants +12%, and receiving heavy damage grants +15%. Damage increases based on current gauge percentage, up to 100%. \nUpon reaching 100% Saber enters Blackened Mana mode. ATK is increased by +350%, and all attacks become, ignoring armor, shields, and all damage reduction. \nEnemies hit are inflicted with Mana Erosion, taking up to 250% damage per second based on base damage for 4 seconds. While in 100% mode, attacks deal an additional 450% as area damage. Enemies hit suffer -10% maximum HP permanently for the current battle. \nWhen Blackened Mana ends, the Corrupted Gauge resets to 0% and begins charging again automatically.",
         "id": "b546e336-497c-4d25-abea-09f69faee688",
         "cooldown": ""
       },
       {
         "id": "9c95d9a5-aaf7-4192-b393-14685742c3e1",
         "name": "Mark of Ruin",
-        "description": "Each attack applies Mark of Ruin. Marked enemies take +5% increased damage from all sources for 3 seconds. This effect stacks up to 10 times. \nWhen Corrupted Gauge reaches 100%, enemies with Mark of Ruin take an additional +120% increased damage for the entire duration of Blackened Mana. \nAll effects from this passive are cleansed when the 100% mode ends."
+        "description": "Each attack applies Mark of Ruin. Marked enemies take +5% increased damage from all sources for 3 seconds. This effect stacks up to 10 times. \nWhen Corrupted Gauge reaches 100%, enemies with Mark of Ruin take an additional +120% increased damage for the entire duration of Blackened Mana. \nAll effects from this passive are cleansed when the 100% mode ends.",
         "cooldown": ""
       }
     ],
