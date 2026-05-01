@@ -8095,6 +8095,189 @@
     ]
   },
   {
+  "id": "sjw-8f2a9c11",
+  "name": "Sung Jin-Woo (Shadow Emperor)",
+  "rarity": "Guardian",
+  "category": "Guardian",
+  "image": "https://media.discordapp.net/attachments/1491009380370485329/1496349447737704559/image.png?ex=69f615c5&is=69f4c445&hm=da2531064e8f0ce7e8fe985934b05c803eb860da423f4eaf8cd61da28f213036&=&format=webp&quality=lossless",
+  "description": "Sung Jin-Woo (Shadow Emperor) is inspired by Sung Jin-Woo from Solo Leveling. \n\nYou get him by doing Guild War Stage as a drop. His dropchance increases by 0.05% per wave (100% at wave 2000). Requires level 250 and 1m gems to create a guild for this event.",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Shadow Legion Ascension",
+    "description": "Everytime an enemy is killed by Jin-Woo, there is a chance to summon Kamish (max 1 on the field). Kamish enters alongside Igros and Bero. Each active shadow unit increases Jin-Woo's ATK by +5%."
+  },
+  "activeSkills": [
+    {
+      "id": "b71e1942-5d33-4f9e-bc81-8821a0f92b41",
+      "name": "Dragon's Fear",
+      "description": "Remove all enemy shields and deal 5% of enemy's max health while the skill is active.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "a92c441b-82ff-410a-9d22-110f823e59ba",
+      "name": "I Am The Winner",
+      "description": "Bring all enemies back to their spawn and deal 35% of enemy's max health as damage.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "7721acbe-0192-4912-8821-f92100cb2134"
+    },
+    {
+      "level": 1,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "f8a22109-bc33-410a-9d22-ea8821f092cc"
+    },
+    {
+      "level": 2,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "d99210bc-f921-4a33-88c1-aa9210bc2144"
+    },
+    {
+      "level": 3,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "c882109a-bb33-410e-8821-00f9221bc331"
+    },
+    {
+      "level": 4,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "e77210bc-da33-410a-bc81-ff92110cb211"
+    },
+    {
+      "level": 5,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "b99120ac-ff22-410a-9d21-aa88210bc210"
+    },
+    {
+      "level": 6,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "a88110bc-ee33-4f9e-bc81-ff88210bc21a"
+    },
+    {
+      "level": 7,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "991122bc-dd11-4f9e-aa21-00f9221bc322"
+    },
+    {
+      "level": 8,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "881100bc-cc22-4a33-bc81-ee88210bc211"
+    },
+    {
+      "level": 9,
+      "damage": "1.5M",
+      "spa": "5.4",
+      "range": "101.7",
+      "cost": "32500",
+      "id": "771122bc-bb33-4a1a-aa21-ff92110cc322"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "661100bc-aa44-4f9e-bc81-dd88210bc233"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "4e710abc-f112-4a33-bc81-ff9210bc2141",
+      "name": "Monarch of Absolute Death",
+      "description": "Everytime Sung Jin-Woo attacks, he deals an extra 4-8% of enemy's max HP as damage (ignores shield) and inflicts 'Death Mark'. When reaching 5 stacks, deals 15% max HP damage and inflicts 'Soul Corrosion' (2% HP/s for 5s). Below 30% HP, damage is 2x with 20% chance to 'Execute'. Bosses receive 'Soul Sever', reducing max HP by 5%.",
+      "cooldown": ""
+    },
+    {
+      "id": "5f821bcd-e223-4b44-cd92-aa0321cd3252",
+      "name": "Guardian Blessing",
+      "description": "This unit cannot be stunned.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "3cc11dc9-905c-4800-b167-4a6f80a905cc",
+      "label": "Obtainable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "a5fbde43-52c9-4558-9cef-5c34343bfecf",
+      "label": "Meta",
+      "bgColor": "#FF1493",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "52499db5-d0cf-49e2-9fef-e5082fa1449d",
+      "label": "Death Mark",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    },
+    {
+      "id": "b82e31f3-g529-5de3-b3d3-c00e81f9e885",
+      "label": "Active Skill",
+      "bgColor": "#FF8C00",
+      "borderColor": "#00D9FF"
+    }
+  ]
+}
+  {
     "id": "U-0043",
     "name": "Escanor (The One)",
     "rarity": "Limited",
