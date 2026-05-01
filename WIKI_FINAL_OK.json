@@ -8095,12 +8095,1593 @@
     ]
   },
   {
+  "id": "antares-7e21b033",
+  "name": "Antares (Monarch of Destruction)",
+  "rarity": "Guardian",
+  "category": "Guardian",
+  "image": "https://cdn.discordapp.com/attachments/1491062753685672146/1496350140561231993/image.png?ex=69f6166a&is=69f4c4ea&hm=ed4cacbbf4c5bfe7a0a7b11a959e84654241e8967030b5db33304cd2cb71aec0&",
+  "description": "Antares (Monarch of Destruction) is inspired by Antares from Solo Leveling. \n\nYou get him by crafting at Whis Npc using materials from the Solo Leveling Event: 10x Voidroot Crystal, 7x Sylvan Dragon Relic, 9x Honeycore Relic, 11x Eldritch Node, 10x Scarlet Pulse, 10x Astryx Shard, and 10x Vitalcore Shard.",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Destruction Overload",
+    "description": "Applies Burn (5% Max HP/s) and Bleed (3% Max HP/s) for 5s. Each hit grants Destruction Stacks (+10% ATK and +3% Max HP damage). Against Bosses, damage is +75% and Burn/Bleed is doubled. At 20 stacks, triggers Destruction Burst (200% Max HP AoE)."
+  },
+  "activeSkills": [
+    {
+      "id": "9b82c00a-e555-44bc-a333-222211110000",
+      "name": "Breath of Destruction",
+      "description": "Inflict burn in the enemy lasting 10 seconds, dealing 5% of enemy's max health every second.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "1a2b3c4d-a56f-4444-b90a-c11223344556",
+      "name": "Flaming Breath",
+      "description": "Increase this unit's ATK by 44% (stackable infinitely) and deal 4% of enemy's max health, along with inflicting bleed (1.5% max health for 3 ticks).",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "b1a233cc-9911-4f9e-bc81-ee88210bc931"
+    },
+    {
+      "level": 1,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "c2b344dd-0022-4a33-bc81-ff9210bc932"
+    },
+    {
+      "level": 2,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "d3c455ee-1133-410a-bc81-aa0321cd933"
+    },
+    {
+      "level": 3,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "e4d566ff-2244-4f9e-bc81-bb1432cd934"
+    },
+    {
+      "level": 4,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "f5e677aa-3355-4a33-bc81-cc2543de935"
+    },
+    {
+      "level": 5,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "a6f788bb-4466-410a-bc81-dd3654ef936"
+    },
+    {
+      "level": 6,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "b7a899cc-5577-4f9e-bc81-ee4765fa937"
+    },
+    {
+      "level": 7,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "c8b900dd-6688-4a33-bc81-ff5876fb938"
+    },
+    {
+      "level": 8,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "d9c011ee-7799-410a-bc81-aa6987fc939"
+    },
+    {
+      "level": 9,
+      "damage": "1.5M",
+      "spa": "5.4",
+      "range": "101.7",
+      "cost": "32500",
+      "id": "e0d122ff-8800-4f9e-bc81-bb7098ad940"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "f1e233aa-9911-4a33-bc81-cc8109be941"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "d8f7e6d5-c4b3-44a1-a908-070605040302",
+      "name": "Crimson Dragon Dominion",
+      "description": "Attacks grant Dragon Blood stacks. Kills summon a Red Dragon (50% Max HP dmg, 5% Max HP/s aura). Stacks increase dragon power by +10%. At 10 stacks (100%), dragons enter Overlord mode (150% Max HP damage).",
+      "cooldown": ""
+    },
+    {
+      "id": "f1e2d3c4-b5a6-4488-b766-554433221100",
+      "name": "Guardian Blessing",
+      "description": "This unit cannot be stunned.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "3cc11dc9-a05c-4800-b167-4a6f80a905ee",
+      "label": "Craftable",
+      "bgColor": "#FFD700",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "a5fbde43-b2c9-4558-9cef-5c34343bfabc",
+      "label": "Meta",
+      "bgColor": "#FF1493",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "52499db5-c0cf-49e2-9fef-e5082fa144de",
+      "label": "Burn/Bleed",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    },
+    {
+      "id": "b82e31f3-f529-5de3-b3d3-c00e81f9e889",
+      "label": "Active Skill",
+      "bgColor": "#FF8C00",
+      "borderColor": "#00D9FF"
+    }
+  ]
+},
+  {
+  "id": "cha-hae-in-b8f2a110",
+  "name": "Cha Hae-In (Light of God)",
+  "rarity": "Heaven",
+  "category": "Heaven",
+  "image": "https://media.discordapp.net/attachments/1491062822396887040/1496349726625370305/image.png?ex=69f61607&is=69f4c487&hm=5011285bbc55782580067fedf4ae080e8b28d6ac7b41734e6bc2087db0abdaee&=&format=webp&quality=lossless",
+  "description": "Cha Hae-In (Light of God) is based on Cha Hae-In from Solo Leveling. \n\nObtained by evolving Cha (Light Arc) using 10x Solaris Loop and 10x Sunblossom Core from the Solo Leveling Event.",
+  "unitType": "Defender",
+  "element": "Light",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Blessing of the Light",
+    "description": "Gains Light Energy on attack. At 10 stacks, enters Light Ascension (10s): attacks deal 25% + 30% Max HP Holy Damage. Units in range gain +25% DMG and 5% HP recovery. Sung Jin-Woo gains +20% Max HP bonus damage."
+  },
+  "activeSkills": [
+    {
+      "id": "d1a933ff-2c41-4b9e-9d21-ee88210bc441",
+      "name": "Sword of Light",
+      "description": "Increase Cha Hae-In's ATK by 3000% for 30 seconds and deduct 33% of max health from the enemy.",
+      "cooldown": "250s"
+    },
+    {
+      "id": "2a40654a-fd4f-476d-b624-d4cf795fdbbc",
+      "name": "One Above All",
+      "description": "All enemies within range get their max health reduced by 44%.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d"
+    },
+    {
+      "level": 1,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e"
+    },
+    {
+      "level": 2,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f"
+    },
+    {
+      "level": 3,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a"
+    },
+    {
+      "level": 4,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b"
+    },
+    {
+      "level": 5,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c"
+    },
+    {
+      "level": 6,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d"
+    },
+    {
+      "level": 7,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e"
+    },
+    {
+      "level": 8,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "c9d0e1f2-a3b4-4c5d-6e7f-8a9b0c1d2e3f"
+    },
+    {
+      "level": 9,
+      "damage": "1.5M",
+      "spa": "5.4",
+      "range": "101.7",
+      "cost": "32500",
+      "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Light"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "7a8b9c0d-1e2f-4a3b-b4c5-d6e7f8a9b0c1",
+      "name": "Divine Radiance",
+      "description": "Deals 5% Max HP true damage. 30% chance to apply Light Mark (+20% DMG taken). At 3+ stacks, deals +20% Max HP damage and heals 10% of that amount. Alongside Sung Jin-Woo, deals extra 20% Max HP damage.",
+      "cooldown": ""
+    },
+    {
+      "id": "9ed4219d-239e-451d-ae80-189a53b95534",
+      "name": "Sun God Incarnation",
+      "description": "Every wave, this unit loses 2% HP, but gains +2% bonus damage toward enemies (stackable indefinitely). Each attack inflicts Burn (Capped at 5 stacks). On death, deals 100% enemy HP as AoE damage.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "41388ca4-c9bf-49d1-852f-d4971fa0c98c",
+      "label": "Light Mark",
+      "bgColor": "#FFD700",
+      "borderColor": "#FFFFFF"
+    },
+    {
+      "id": "94ebdf32-41c8-4447-8bde-4c23232afdaf",
+      "label": "Meta",
+      "bgColor": "#FF1493",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "2bc00dc9-805c-4700-a167-3a5f70a805bf",
+      "label": "Evolvable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "a71d20e2-f418-4de2-a2d2-b9a8dbe4f774",
+      "label": "Active Skill",
+      "bgColor": "#FF8C00",
+      "borderColor": "#00D9FF"
+    }
+  ]
+},
+  {
+  "id": "kamish-9d3e71b2",
+  "name": "Kamish (Dragon Monarch)",
+  "rarity": "Limited",
+  "category": "Limited",
+  "image": "https://media.discordapp.net/attachments/1491062939459784774/1496349942753529980/image.png?ex=69f6163b&is=69f4c4bb&hm=ca937fc3c16b45add10b06b3fc48fdf0c6a46d1760e0ff5f083d69b135113787&=&format=webp&quality=lossless",
+  "description": "Kamish (Dragon Monarch) is inspired by Kamish from Solo Leveling. \n\nYou get him by doing the Solo Leveling Event, where he has a 0.5% chance to drop.",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Lone Dragon Authority",
+    "description": "When no other units are within Kamish's range, his attack deal 50% of enemy's max HP as damage and apply Burn, dealing 1% of enemy's max HP per second."
+  },
+  "activeSkills": [
+    {
+      "id": "e44d3102-1a22-4b8c-99d1-ff8210bc9321",
+      "name": "Dragon's Roar",
+      "description": "Deal 5% of enemy's max health as burn damage while the skill is active.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "c99210da-82ff-4a11-b221-77d8210bc92a",
+      "name": "One Above All",
+      "description": "All enemies within range get their max health reduced by 44%.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "a7710bde-0132-4812-9921-c92100fb2341"
+    },
+    {
+      "level": 1,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "d8a11209-cc33-410a-b222-fa8821f093dd"
+    },
+    {
+      "level": 2,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "e99210bc-a921-4b33-77c1-bb9210bc2255"
+    },
+    {
+      "level": 3,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "b882109b-cc33-410e-9921-11f9221bc442"
+    },
+    {
+      "level": 4,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "f77210bc-ea33-420a-ac81-0092110cb322"
+    },
+    {
+      "level": 5,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "c99120ac-aa22-420a-8821-bb88210bc321"
+    },
+    {
+      "level": 6,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "b88110bc-ff33-4f9e-cc81-0088210bc32b"
+    },
+    {
+      "level": 7,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "a91122bc-ee11-4f9e-bb21-11f9221bc433"
+    },
+    {
+      "level": 8,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "981100bc-dd22-4a33-cc81-ff88210bc322"
+    },
+    {
+      "level": 9,
+      "damage": "1.5M",
+      "spa": "5.4",
+      "range": "101.7",
+      "cost": "32500",
+      "id": "871122bc-cc33-4a1a-bb21-0092110cc433"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "761100bc-bb44-4f9e-cc81-ee88210bc444"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "f8821bcd-d334-4c55-de03-bb1432cd4363",
+      "name": "Lone Dragon Authority",
+      "description": "When no other units are within Kamish's range, his attack deal 50% of enemy's max HP as damage and apply Burn, dealing 1% of enemy's max HP per second.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "4dd22dc9-016c-4901-c278-5b7f91a016dd",
+      "label": "Obtainable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "b6fcdf54-63d0-4669-adef-6d45454cgfdg",
+      "label": "Meta",
+      "bgColor": "#FF1493",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "63500ec6-e1df-4ae3-0fef-f6193fb2550e",
+      "label": "Burn",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    },
+    {
+      "id": "c93f42f4-h630-6ef4-c4c4-d11f92g0f996",
+      "label": "Active Skill",
+      "bgColor": "#FF8C00",
+      "borderColor": "#00D9FF"
+    }
+  ]
+ },
+  {
   "id": "sjw-8f2a9c11",
   "name": "Sung Jin-Woo (Shadow Emperor)",
   "rarity": "Guardian",
   "category": "Guardian",
   "image": "https://media.discordapp.net/attachments/1491009380370485329/1496349447737704559/image.png?ex=69f615c5&is=69f4c445&hm=da2531064e8f0ce7e8fe985934b05c803eb860da423f4eaf8cd61da28f213036&=&format=webp&quality=lossless",
   "description": "Sung Jin-Woo (Shadow Emperor) is inspired by Sung Jin-Woo from Solo Leveling. \n\nYou get him by doing Guild War Stage as a drop. His dropchance increases by 0.05% per wave (100% at wave 2000). Requires level 250 and 1m gems to create a guild for this event.",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Shadow Legion Ascension",
+    "description": "Everytime an enemy is killed by Jin-Woo, there is a chance to summon Kamish (max 1 on the field). Kamish enters alongside Igros and Bero. Each active shadow unit increases Jin-Woo's ATK by +5%."
+  },
+  "activeSkills": [
+    {
+      "id": "b71e1942-5d33-4f9e-bc81-8821a0f92b41",
+      "name": "Dragon's Fear",
+      "description": "Remove all enemy shields and deal 5% of enemy's max health while the skill is active.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "a92c441b-82ff-410a-9d22-110f823e59ba",
+      "name": "I Am The Winner",
+      "description": "Bring all enemies back to their spawn and deal 35% of enemy's max health as damage.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "7721acbe-0192-4912-8821-f92100cb2134"
+    },
+    {
+      "level": 1,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "f8a22109-bc33-410a-9d22-ea8821f092cc"
+    },
+    {
+      "level": 2,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "d99210bc-f921-4a33-88c1-aa9210bc2144"
+    },
+    {
+      "level": 3,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "c882109a-bb33-410e-8821-00f9221bc331"
+    },
+    {
+      "level": 4,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "e77210bc-da33-410a-bc81-ff92110cb211"
+    },
+    {
+      "level": 5,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "b99120ac-ff22-410a-9d21-aa88210bc210"
+    },
+    {
+      "level": 6,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "a88110bc-ee33-4f9e-bc81-ff88210bc21a"
+    },
+    {
+      "level": 7,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "991122bc-dd11-4f9e-aa21-00f9221bc322"
+    },
+    {
+      "level": 8,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "881100bc-cc22-4a33-bc81-ee88210bc211"
+    },
+    {
+      "level": 9,
+      "damage": "1.5M",
+      "spa": "5.4",
+      "range": "101.7",
+      "cost": "32500",
+      "id": "771122bc-bb33-4a1a-aa21-ff92110cc322"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "661100bc-aa44-4f9e-bc81-dd88210bc233"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "4e710abc-f112-4a33-bc81-ff9210bc2141",
+      "name": "Monarch of Absolute Death",
+      "description": "Everytime Sung Jin-Woo attacks, he deals an extra 4-8% of enemy's max HP as damage (ignores shield) and inflicts 'Death Mark'. When reaching 5 stacks, deals 15% max HP damage and inflicts 'Soul Corrosion' (2% HP/s for 5s). Below 30% HP, damage is 2x with 20% chance to 'Execute'. Bosses receive 'Soul Sever', reducing max HP by 5%.",
+      "cooldown": ""
+    },
+    {
+      "id": "5f821bcd-e223-4b44-cd92-aa0321cd3252",
+      "name": "Guardian Blessing",
+      "description": "This unit cannot be stunned.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "3cc11dc9-905c-4800-b167-4a6f80a905cc",
+      "label": "Obtainable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "a5fbde43-52c9-4558-9cef-5c34343bfecf",
+      "label": "Meta",
+      "bgColor": "#FF1493",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "52499db5-d0cf-49e2-9fef-e5082fa1449d",
+      "label": "Death Mark",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    },
+    {
+      "id": "b82e31f3-g529-5de3-b3d3-c00e81f9e885",
+      "label": "Active Skill",
+      "bgColor": "#FF8C00",
+      "borderColor": "#00D9FF"
+    }
+  ]
+ },
+ {
+  "id": "gyro-99a1b2c3",
+  "name": "Gyro",
+  "rarity": "Guardian",
+  "category": "Guardian",
+  "image": "https://media.discordapp.net/attachments/1491009380370485329/1496349447737704559/image.png?ex=69f615c5&is=69f4c445&hm=da2531064e8f0ce7e8fe985934b05c803eb860da423f4eaf8cd61da28f213036&=&format=webp&quality=lossless",
+  "description": "Gyro is inspired from Gyro from JoJo Part 7. \n\nHe is obtained from act 2 of the horse racing event as a 0.25% drop.",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Golden Spin Mastery",
+    "description": "Each attack grants +1 Spin Attack (up to 10). Each stack increases damage by +4%. At 10 stacks, enters Golden Spin state for 5 seconds."
+  },
+  "activeSkills": [
+    {
+      "id": "7741acbe-0192-4912-8821-f92100cb2134",
+      "name": "Radiant Strike",
+      "description": "All enemies within range get their max health reduced by 49% and deals 49% of this unit's health as damage to this unit.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "f8a22109-bc33-410a-9d22-ea8821f092cc",
+      "name": "One Above All",
+      "description": "All enemies within range get their max health reduced by 44%.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "d99210bc-f921-4a33-88c1-aa9210bc2144"
+    },
+    {
+      "level": 1,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "c882109a-bb33-410e-8821-00f9221bc331"
+    },
+    {
+      "level": 2,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "e77210bc-da33-410a-bc81-ff92110cb211"
+    },
+    {
+      "level": 3,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "b99120ac-ff22-410a-9d21-aa88210bc210"
+    },
+    {
+      "level": 4,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "a88110bc-ee33-4f9e-bc81-ff88210bc21a"
+    },
+    {
+      "level": 5,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "991122bc-dd11-4f9e-aa21-00f9221bc322"
+    },
+    {
+      "level": 6,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "881100bc-cc22-4a33-bc81-ee88210bc211"
+    },
+    {
+      "level": 7,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "771122bc-bb33-4a1a-aa21-ff92110cc322"
+    },
+    {
+      "level": 8,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "661100bc-aa44-4f9e-bc81-dd88210bc233"
+    },
+    {
+      "level": 9,
+      "damage": "1.5M",
+      "spa": "5.4",
+      "range": "101.7",
+      "cost": "32500",
+      "id": "551100bc-aa44-4f9e-bc81-dd88210bc244"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "441100bc-aa44-4f9e-bc81-dd88210bc255"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "name": "Golden Spin Mastery",
+      "description": "Each attack hit grants +1 Spin Attack (up to 10). Each stack increases damage by +4%. At 10 stacks, enter 'Golden Spin' state (5s): attacks deal 6% Max HP True Damage, bypass defense, and Slow 35%. 25% chance for DoT (12% Max HP/s for 3s) on same target. Criticals grant +2 stacks.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "2bc00dc9-805c-4700-a167-3a5f70a805bf",
+      "label": "Obtainable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "94ebdf32-41c8-4447-8bde-4c23232afdaf",
+      "label": "Spin",
+      "bgColor": "#FFD700",
+      "borderColor": "#000000"
+    },
+    {
+      "id": "41388ca4-c9bf-49d1-852f-d4971fa0c98c",
+      "label": "True Damage",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    }
+  ]
+},
+{
+  "id": "jj-gs-91e2b440",
+  "name": "Johnny Joestar (Golden Spins)",
+  "rarity": "Guardian",
+  "category": "Guardian",
+  "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/imagen_2026-05-01_200231938.png?raw=true",
+  "description": "Johnny Joestar (Golden Spins) is inspired from Johnny Joestar from JJBA Steel Ball Run. \n\nEvolved from Johnny Joestar using materials from Act 1 and Act 3 (1% drop rate). Original Johnny is obtained in Act 1 (0.5% drop rate).",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Infinite Rotation Control",
+    "description": "Attacks deal 8% Max HP damage and inflict Rotation (6%-10% Max HP/s). 3 consecutive hits deal 20% Max HP damage and stun for 1s. Has a 0.9% chance to send enemies back to spawn for 20s."
+  },
+  "activeSkills": [
+    {
+      "id": "e44d82b1-1122-4a33-bc81-ff92110cb456",
+      "name": "Johnny Ultimate",
+      "description": "Deals continuous damage equal to 8% of the target’s max HP and returns the enemy to their starting position.",
+      "cooldown": "250s"
+    },
+    {
+      "id": "f8a11209-cc33-410a-b222-fa8821f094dd",
+      "name": "One Above All",
+      "description": "All enemies within range get their max health reduced by 44%.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "b112233c-aa21-4f9e-bc81-ee88210bc955"
+    },
+    {
+      "level": 2,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "c223344d-bb32-4a33-bc81-ff9210bc9666"
+    },
+    {
+      "level": 3,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "d334455e-cc43-410a-bc81-aa0321cd9777"
+    },
+    {
+      "level": 4,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "e445566f-dd54-4f9e-bc81-bb1432cd9888"
+    },
+    {
+      "level": 5,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "f556677a-ee65-4a33-bc81-cc2543de9999"
+    },
+    {
+      "level": 6,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "a667788b-ff76-410a-bc81-dd3654ef9000"
+    },
+    {
+      "level": 7,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "b778899c-aa87-4f9e-bc81-ee4765fa9111"
+    },
+    {
+      "level": 8,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "c889900d-bb98-4a33-bc81-ff5876fb9222"
+    },
+    {
+      "level": 9,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "d990011e-cc09-410a-bc81-aa6987fc9333"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "e001122f-dd10-4f9e-bc81-bb7098ad9444"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "7a8b9c0d-1e2f-4a3b-b4c5-d6e7f8a9b111",
+      "name": "Infinite Rotation Control",
+      "description": "Every attack deals 8% Max HP damage and inflicts Rotation (3s, 6% Max HP/s). DoT increases to 10% on same target. 3 consecutive hits deal 20% Max HP damage and stun for 1s. 0.9% chance to return enemy to spawn for 20s.",
+      "cooldown": ""
+    },
+    {
+      "id": "11223344-5566-7788-9900-aabbccddeeff",
+      "name": "Tusk Infinite Spin",
+      "description": "Each attack grants +1 Nail Stack (max 10), increasing damage by 20% per stack. At 10 stacks, enters Infinite Spin (6s): deals 25% Max HP damage and applies Rotation Stacks. At 3 Rotation Stacks, triggers 50% Max HP burst and 1.5s stun.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "2bc00dc9-805c-4700-a167-3a5f70a805bf",
+      "label": "Evolved",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "94ebdf32-41c8-4447-8bde-4c23232afdaf",
+      "label": "Infinite Spin",
+      "bgColor": "#FFD700",
+      "borderColor": "#000000"
+    },
+    {
+      "id": "41388ca4-c9bf-49d1-852f-d4971fa0c98c",
+      "label": "Rotation",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    }
+  ]
+},
+{
+  "id": "johnny-joestar-f2a9c311",
+  "name": "Johnny Joestar",
+  "rarity": "Secret",
+  "category": "Secret",
+  "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/imagen_2026-05-01_200231938.png?raw=true",
+  "description": "Johnny Joestar is inspired from Johnny Joestar from JoJo's Bizzare Adventure; Steel Ball Run. \n\nHe is obtained by defeating Act 1 of the Horse Racing Event (0.5% drop rate).",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Tusk Infinite Spin",
+    "description": "Each attack grants +1 Nail Stack (max 10), increasing damage by 20% per stack. At 10 stacks, enters Infinite Spin (6s): attacks deal 25% max HP and apply Rotation Stacks."
+  },
+  "activeSkills": [
+    {
+      "id": "c1122334-5566-7788-9900-aabbccddeeff",
+      "name": "Radiant Strike",
+      "description": "All enemies within range get their max health reduced by 49% and deals 49% of this unit's health as damage to this unit.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "ffeeddcc-bbaa-0099-8877-665544332211",
+      "name": "One Above All",
+      "description": "All enemies within range get their max health reduced by 44%.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "7721acbe-a123-4b92-9d9f-3457efb9ac31"
+    },
+    {
+      "level": 2,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "f8a22109-c456-4d0a-9d22-ea8821f092cc"
+    },
+    {
+      "level": 3,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "d99210bc-e789-4f33-88c1-aa9210bc2144"
+    },
+    {
+      "level": 4,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "c882109a-b012-4e1e-8821-00f9221bc331"
+    },
+    {
+      "level": 5,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "e77210bc-d345-4a6a-bc81-ff92110cb211"
+    },
+    {
+      "level": 6,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "b99120ac-f678-4c0a-9d21-aa88210bc210"
+    },
+    {
+      "level": 7,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "a88110bc-e901-4f9e-bc81-ff88210bc21a"
+    },
+    {
+      "level": 8,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "991122bc-d234-4f9e-aa21-00f9221bc322"
+    },
+    {
+      "level": 9,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "881100bc-c567-4a33-bc81-ee88210bc211"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "661100bc-a890-4f9e-bc81-dd88210bc233"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "4e710abc-f112-4a33-bc81-ff9210bc2141",
+      "name": "Tusk Infinite Spin",
+      "description": "Each attack grants +1 Nail Stack (max 10), each stack increasing damage by 20%. Upon reaching 10 stacks, Johnny enters Infinite Spin for 6 seconds, causing attacks to deal 25% of the enemy’s max HP and apply a Rotation Stack. Nail Stack gain speed is doubled when attacking the same target.",
+      "cooldown": ""
+    },
+    {
+      "id": "5f821bcd-e223-4b44-cd92-aa0321cd3252",
+      "name": "Rotation Burst",
+      "description": "At 3 Rotation Stacks, a burst is triggered that deals 50% of the enemy’s max HP instantly (bypasses all defenses) and stuns the enemy for 1.5 seconds.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "2bc00dc9-805c-4700-a167-3a5f70a805bf",
+      "label": "Obtainable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "94ebdf32-41c8-4447-8bde-4c23232afdaf",
+      "label": "Infinite Spin",
+      "bgColor": "#FFD700",
+      "borderColor": "#000000"
+    },
+    {
+      "id": "41388ca4-c9bf-49d1-852f-d4971fa0c98c",
+      "label": "Stun",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    }
+  ]
+},
+{
+  "id": "gyro-99a1b2c3",
+  "name": "Gyro",
+  "rarity": "Secret",
+  "category": "Secret",
+  "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/imagen_2026-05-01_200632612.png?raw=true",
+  "description": "Gyro is inspired from Gyro from JoJo Part 7. \n\nHe is obtained from act 2 of the horse racing event as a 0.25% drop.",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Golden Spin Mastery",
+    "description": "Each attack grants +1 Spin Attack (up to 10). Each stack increases damage by +4%. At 10 stacks, enters Golden Spin state for 5 seconds."
+  },
+  "activeSkills": [
+    {
+      "id": "7741acbe-0192-4912-8821-f92100cb2134",
+      "name": "Radiant Strike",
+      "description": "All enemies within range get their max health reduced by 49% and deals 49% of this unit's health as damage to this unit.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "f8a22109-bc33-410a-9d22-ea8821f092cc",
+      "name": "One Above All",
+      "description": "All enemies within range get their max health reduced by 44%.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "d99210bc-f921-4a33-88c1-aa9210bc2144"
+    },
+    {
+      "level": 1,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "c882109a-bb33-410e-8821-00f9221bc331"
+    },
+    {
+      "level": 2,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "e77210bc-da33-410a-bc81-ff92110cb211"
+    },
+    {
+      "level": 3,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "b99120ac-ff22-410a-9d21-aa88210bc210"
+    },
+    {
+      "level": 4,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "a88110bc-ee33-4f9e-bc81-ff88210bc21a"
+    },
+    {
+      "level": 5,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "991122bc-dd11-4f9e-aa21-00f9221bc322"
+    },
+    {
+      "level": 6,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "881100bc-cc22-4a33-bc81-ee88210bc211"
+    },
+    {
+      "level": 7,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "771122bc-bb33-4a1a-aa21-ff92110cc322"
+    },
+    {
+      "level": 8,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "661100bc-aa44-4f9e-bc81-dd88210bc233"
+    },
+    {
+      "level": 9,
+      "damage": "1.5M",
+      "spa": "5.4",
+      "range": "101.7",
+      "cost": "32500",
+      "id": "551100bc-aa44-4f9e-bc81-dd88210bc244"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "441100bc-aa44-4f9e-bc81-dd88210bc255"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "name": "Golden Spin Mastery",
+      "description": "Each attack hit grants +1 Spin Attack (up to 10). Each stack increases damage by +4%. At 10 stacks, enter 'Golden Spin' state (5s): attacks deal 6% Max HP True Damage, bypass defense, and Slow 35%. 25% chance for DoT (12% Max HP/s for 3s) on same target. Criticals grant +2 stacks.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "2bc00dc9-805c-4700-a167-3a5f70a805bf",
+      "label": "Obtainable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "94ebdf32-41c8-4447-8bde-4c23232afdaf",
+      "label": "Spin",
+      "bgColor": "#FFD700",
+      "borderColor": "#000000"
+    },
+    {
+      "id": "41388ca4-c9bf-49d1-852f-d4971fa0c98c",
+      "label": "True Damage",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FF0000"
+    }
+  ]
+},
+ {
+  "id": "gyro-bb-5e22f81a",
+  "name": "Gyro (Ball Breaker)",
+  "rarity": "Heaven",
+  "category": "Heaven",
+  "image": "https://github.com/fabiosanahuja-cmyk/wikiunidades/blob/main/imagen_2026-05-01_200632612.png?raw=true",
+  "description": "Gyro (Ball Breaker) is inspired by Gyro from JoJo Part 7. \n\nObtained as a 0.25% drop from Act 2 of the Horse Racing Event. Evolution materials are also obtained from Act 2 (1% drop chance).",
+  "unitType": "Defender",
+  "element": "Dark",
+  "faction": "Heroes",
+  "passiveAbility": {
+    "name": "Steel Ball Technique",
+    "description": "Every attack deals 10% Max HP damage and knocks up to 2 enemies back 1 Waypoint. Deals +5% Max HP bonus damage to Stunned enemies. Hitting the same target 3 times inflicts a 1s stun."
+  },
+  "activeSkills": [
+    {
+      "id": "b81e1942-5d33-4f9e-bc81-8821a0f92b41",
+      "name": "Radiant Strike",
+      "description": "All enemies within range get their max health reduced by 49% and deals 49% of this unit's health as damage to this unit.",
+      "cooldown": "160s"
+    },
+    {
+      "id": "a92c441b-82ff-410a-9d22-110f823e59ba",
+      "name": "One Above All",
+      "description": "All enemies within range get their max health reduced by 44%.",
+      "cooldown": "180s"
+    }
+  ],
+  "baseStats": {
+    "hp": 2139.89533320268,
+    "atk": 235.6137171851425,
+    "def": 247.68121394279825,
+    "spd": 119.56503807765836,
+    "crit": 15,
+    "critDmg": 150,
+    "accuracy": 100,
+    "evasion": 5
+  },
+  "upgrades": [
+    {
+      "level": 1,
+      "damage": "45.4k",
+      "spa": "5.0",
+      "range": "53.5",
+      "cost": "10000",
+      "id": "f8a22109-1122-410a-9d22-ea8821f092cc"
+    },
+    {
+      "level": 2,
+      "damage": "99.0k",
+      "spa": "4.8",
+      "range": "58.9",
+      "cost": "12500",
+      "id": "d99210bc-f921-4a33-88c1-aa9210bc2144"
+    },
+    {
+      "level": 3,
+      "damage": "203.5k",
+      "spa": "4.8",
+      "range": "64.2",
+      "cost": "15000",
+      "id": "c882109a-bb33-410e-8821-00f9221bc331"
+    },
+    {
+      "level": 4,
+      "damage": "321.7k",
+      "spa": "4.8",
+      "range": "69.6",
+      "cost": "20000",
+      "id": "e77210bc-da33-410a-bc81-ff92110cb211"
+    },
+    {
+      "level": 5,
+      "damage": "461.9k",
+      "spa": "5.4",
+      "range": "74.9",
+      "cost": "22500",
+      "id": "b99120ac-ff22-410a-9d21-aa88210bc210"
+    },
+    {
+      "level": 6,
+      "damage": "591.2k",
+      "spa": "5.4",
+      "range": "80.3",
+      "cost": "25000",
+      "id": "a88110bc-ee33-4f9e-bc81-ff88210bc21a"
+    },
+    {
+      "level": 7,
+      "damage": "758.9k",
+      "spa": "5.4",
+      "range": "85.6",
+      "cost": "27500",
+      "id": "991122bc-dd11-4f9e-aa21-00f9221bc322"
+    },
+    {
+      "level": 8,
+      "damage": "904.6k",
+      "spa": "5.4",
+      "range": "91.0",
+      "cost": "30000",
+      "id": "881100bc-cc22-4a33-bc81-ee88210bc211"
+    },
+    {
+      "level": 9,
+      "damage": "1.1M",
+      "spa": "5.4",
+      "range": "96.4",
+      "cost": "32500",
+      "id": "771122bc-bb33-4a1a-aa21-ff92110cc322"
+    },
+    {
+      "level": 10,
+      "damage": "1.8M",
+      "spa": "3.0",
+      "range": "107.1",
+      "cost": "40000",
+      "id": "661100bc-aa44-4f9e-bc81-dd88210bc233"
+    }
+  ],
+  "unitTypes": [
+    "Defender"
+  ],
+  "elements": [
+    "Dark"
+  ],
+  "factions": [
+    "Heroes"
+  ],
+  "passiveSkills": [
+    {
+      "id": "4e710abc-f112-4a33-bc81-ff9210bc2141",
+      "name": "Golden Spin Mastery",
+      "description": "Grants Spin Stacks on hit (up to 10). Each stack increases damage by +4%. At 10 stacks, enters Golden Spin (5s): attacks deal 6% Max HP True Damage, bypass defense, and Slow by 35%. 25% chance to apply DoT (12% Max HP/s for 3s) on continuous targets. Crits grant +2 stacks.",
+      "cooldown": ""
+    },
+    {
+      "id": "5f821bcd-e223-4b44-cd92-aa0321cd3252",
+      "name": "Steel Ball Technique",
+      "description": "Every attack throws a Steel Ball, dealing 10% of enemy's Max HP as damage and knocking up to 2 enemies by 1 Waypoint. +5% Max HP bonus damage if the enemy is Stunned. 3 consecutive hits inflicts 1s stun.",
+      "cooldown": ""
+    }
+  ],
+  "baseInfo": {
+    "placements": "1",
+    "placementType": "Ground",
+    "aoeType": "Circle → Full"
+  },
+  "customTags": [
+    {
+      "id": "2bc00dc9-805c-4700-a167-3a5f70a805bf",
+      "label": "Obtainable",
+      "bgColor": "#00FF00",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "94ebdf32-41c8-4447-8bde-4c23232afdaf",
+      "label": "Meta",
+      "bgColor": "#FF1493",
+      "borderColor": "#00D9FF"
+    },
+    {
+      "id": "41388ca4-c9bf-49d1-852f-d4971fa0c98c",
+      "label": "Spin",
+      "bgColor": "#1A1A2E",
+      "borderColor": "#FFD700"
+    },
+    {
+      "id": "a71d20e2-f418-4de2-a2d2-b9a8dbe4f774",
+      "label": "True Damage",
+      "bgColor": "#FF8C00",
+      "borderColor": "#00D9FF"
+    }
+  ]
+},
+ {
+  "id": "sjw-8f2a9c11",
+  "name": "Sung Jin-Woo (Shadow Emperor) (Shiny)",
+  "rarity": "Guardian",
+  "category": "Guardian",
+  "image": "https://media.discordapp.net/attachments/1202552239655485450/1497190495330504704/2026-04-22_21.16.12.png?ex=69f5d94e&is=69f487ce&hm=3b4f15f835ca7e7bc0504467f88074973b4c827c9363f0ba1a01fd2ed9708787&=&format=webp&quality=lossless&width=743&height=574",
+  "description": "Sung Jin-Woo (Shadow Emperor) is inspired by Sung Jin-Woo from Solo Leveling. \n\nYou get him by doing Guild War Stage as a drop. His dropchance increases by 0.05% per wave (100% at wave 2000). Requires level 250 and 1m gems to create a guild for this event. 1% Chance of normal Sjw to get Shiny.",
   "unitType": "Defender",
   "element": "Dark",
   "faction": "Heroes",
